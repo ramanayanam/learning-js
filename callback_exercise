@@ -1,0 +1,14 @@
+const seven_dwarves = [
+    'happy',
+    'sleepy',
+    'sneezy',
+    'bashful',
+    'dopey',
+    'doc',
+    'grumpy'
+    ];
+    
+
+for(x in seven_dwarves){
+    console.log(seven_dwarves[x])
+}
